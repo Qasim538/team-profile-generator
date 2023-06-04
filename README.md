@@ -41,12 +41,12 @@ I have added a MIT license. This is free website and anyone can use it.
 
 
 ## Links to Repository
-Here is the link to repository:
+Here is the link to repository: <br>
 https://github.com/Qasim538/team-profile-generator
 
 ## Links to Application
-Here is the link to the online application:
-https://github.com/Qasim538/team-profile-generator/
+Here is the link to the online application: <br>
+[https://github.com/Qasim538/team-profile-generator/](https://qasim538.github.io/team-profile-generator/)
 
 ## Links to my Github
 https://github.com/Qasim538
